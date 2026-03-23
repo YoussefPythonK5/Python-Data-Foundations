@@ -1,2 +1,2 @@
 # Python-Data-Foundations
- Exploring and understanding data types in Python 
+ "This repository covers the essentials of Python Data Types. I explored how Python handles different types of information like strings, numbers, and booleans, focusing on memory efficiency and clean code logic."
